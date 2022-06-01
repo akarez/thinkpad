@@ -15,7 +15,7 @@ List all connected network cards:
 
 Scan for available networks:
 
-*Note: wlan0 is my card, yours might be different.*
+>Note: wlan0 is my card, yours might be different.
 
 ```
 [iwd]# station wlan0 scan
