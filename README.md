@@ -3,7 +3,7 @@
 ## Networks
 Use the iwd utility to connet to WiFi:
 
-*If you have an ethernet connection you can skip to the next section.*
+*Note: If you have an ethernet connection you can skip to the next section.*
 
 ```
 ~# iwctl
