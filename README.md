@@ -26,7 +26,7 @@ Scan for available networks:
 List available networks:
 
 ```
-[iwd]# station get-networks
+[iwd]# station wlan0 get-networks
 ```
 
 Connect to your network:
